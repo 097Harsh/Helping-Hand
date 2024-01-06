@@ -1,0 +1,25 @@
+
+body{
+    background-color: black;
+
+}
+h1{
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #faf7f7;
+    text-align: center;
+}
+table{
+    border: 10px;
+    border-color: aliceblue;
+    text-align: center;
+    background-color: white;
+    color: blaack;
+    
+}
+p{
+    color: aliceblue;
+    font-size: 14px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align:center;
+}
